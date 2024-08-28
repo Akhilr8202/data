@@ -1,2 +1,2 @@
-def hello(hai,hello):
-    pass
+def hello(a,b):
+    return a+b
